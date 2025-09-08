@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Gifts
+
+  Created by Александра Згонникова on 08.09.2025.
+  
+*/
+
+
+"welcome" = "WELCOME";
+"welcomePromt" = "Enter your phone number. We will send you an SMS with a confirmation code to this number.";
+"agreeText" = "By continuing, you agree to Assetsy’s ";
+"and" = " and ";
+"termsOfUse" = "Terms of Use";
+"privacyPolicy" = "Privacy Policy";
+"skip" = "Skip";
+
+
+//MARK: navigation
+"gifts" = "Gifts";
+"events" = "Events";
+"cart" = "Cart";
+"profile" = "Profile";
+
+//MARK: gift flow
+"deliverTo" = "Deliver to";
+"giftTitle" = "GIFTS";
+"search" = "Search";
+"productInfo" = "New Popular Arrivals";
+"allCategories" = "View all categories";
+"showAll" = "Show all";
+"logOut" = "Log Out";
